@@ -1,7 +1,7 @@
 
 
-# Aleena GBot
-Me On Telegram [✨Aleena✨](https://t.me/Aleena_GBot)
+# 𝓐𝓷𝓪𝓰𝓱𝓪
+Me On Telegram [✨𝓐𝓷𝓪𝓰𝓱𝓪✨](https://t.me/Anagha_gbott)
 This is just a demo bot.. Don't try to add to your group.. Create your own bot 
 ## How To Host
 The easiest way to deploy this Bot
